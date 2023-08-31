@@ -1,3 +1,5 @@
+import PromptSync from "prompt-sync"
+import chalk from 'chalk'
 
 const prompt = PromptSync()
 
